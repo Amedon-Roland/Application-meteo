@@ -9,12 +9,12 @@
 |Techniques| |
 |Auteur| |
 |Introduction| |
-|L'application météo en ligne est un projet simple qui utilise l'API OpenWeatherMap pour obtenir des informations météorologiques en temps réel. Elle a été conçue en utilisant HTML| CSS et JavaScript.|
+|L'application météo en ligne est un projet simple qui utilise l'API OpenWeatherMap pour obtenir des informations météorologiques en temps réel. Elle a été conçue en utilisant HTML CSS et JavaScript.|
 | | |
 |Installation| |
 |Clonez ce dépôt GitHub sur votre ordinateur local en utilisant la commande suivante:| |
 | | |
-|git clone https://github.com/username/weather-app.git| |
+|git clone  https://github.com/Amedon-Roland/Application-meteo.git| |
 |Ouvrez le fichier index.html dans votre navigateur web pour utiliser l'application.| |
 |Utilisation| |
 |Rendez-vous sur la page d'accueil de l'application.| |
