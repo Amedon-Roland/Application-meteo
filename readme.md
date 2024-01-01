@@ -2,7 +2,7 @@
 |-|-|
 |🌐 Bienvenue sur le répertoire GitHub de l'application météo en ligne. 🌧️ Cette application vous permet d'obtenir des informations météorologiques pour une localisation spécifique en entrant la localisation. Inspiré par codehal www.youtube.com/@codehal | |
 | | |
-![Aperçu de l'effet parallax](capture.png)
+![Aperçu ](capture.png)
 |Table des matières| |
 |Introduction| |
 |Installation| |
