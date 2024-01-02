@@ -2,12 +2,7 @@
 |-|-|
 |🌐 Bienvenue sur le répertoire GitHub de l'application météo en ligne. 🌧️ Cette application vous permet d'obtenir des informations météorologiques pour une localisation spécifique en entrant la localisation. Inspiré par codehal www.youtube.com/@codehal | |
 | | |
-|Table des matières| |
-|Introduction| |
-|Installation| |
-|Utilisation| |
-|Techniques| |
-|Auteur| |
+![Aperçu ](capture.png)
 |Introduction| |
 |L'application météo en ligne est un projet simple qui utilise l'API OpenWeatherMap pour obtenir des informations météorologiques en temps réel. Elle a été conçue en utilisant HTML CSS et JavaScript.|
 | | |
@@ -29,5 +24,4 @@
 |Auteur| |
 |RolandTech - Développeur Web / Etudiant en IA - RolandTech| |
 | | |
-|License| |
-|Ce projet est sous licence MIT - voir le fichier LICENSE.md pour plus de détails.| |
+
