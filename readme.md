@@ -22,6 +22,6 @@
 |API OpenWeatherMap| |
 | | |
 |Auteur| |
-|RolandTech - Développeur Web / Etudiant en IA - RolandTech| |
+|RolandTech - Développeur Web / Etudiant en IA/dev - RolandTech| |
 | | |
 
